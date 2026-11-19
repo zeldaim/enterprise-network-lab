@@ -2,7 +2,7 @@
 
 > **Multi-site enterprise network in Cisco Packet Tracer** — VLSM addressing, OSPF multi-area (Area 0–4) with dual backbone links and cost-based failover, VLAN separation with *both* Router-on-a-Stick and SVI, inter-VLAN ACL, and static + dynamic split routing. Every feature is verified (ping matrix, ACL before/after with match counts, link-failure test, packet captures) and every problem hit along the way is written down. Report in Korean: [`docs/report.md`](docs/report.md).
 
- 미니 프로젝트 · 개인 작업 · 이현정 · 2026-07-05 · Cisco Packet Tracer
+ 미니 프로젝트 · 개인 작업 · YHC · 2026-07-05 · Cisco Packet Tracer
 
 ![전체 토폴로지 — 사이트 A~D, 백본 R1–R4 이중 링크, 인터넷 게이트웨이 R5](docs/img/fig01.png)
 
